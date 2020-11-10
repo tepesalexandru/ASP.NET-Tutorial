@@ -1,0 +1,48 @@
+[
+  {
+    "Id": "1",
+    "Title": "Phone1",
+    "desc": "Phone1 description",
+    "Image": "https://images.unsplash.com/photo-1604918505819-efcc4bc063a4?ixlib=rb-1.2.1\u0026ixid=eyJhcHBfaWQiOjEyMDd9\u0026auto=format\u0026fit=crop\u0026w=1868\u0026q=80",
+    "Ratings": [
+      4
+    ]
+  },
+  {
+    "Id": "2",
+    "Title": "Phone2",
+    "desc": "Phone2 description",
+    "Image": "https://images.unsplash.com/photo-1604918505819-efcc4bc063a4?ixlib=rb-1.2.1\u0026ixid=eyJhcHBfaWQiOjEyMDd9\u0026auto=format\u0026fit=crop\u0026w=1868\u0026q=80",
+    "Ratings": [
+      5
+    ]
+  },
+  {
+    "Id": "3",
+    "Title": "Phone3",
+    "desc": "Phone3 description",
+    "Image": "https://images.unsplash.com/photo-1604918505819-efcc4bc063a4?ixlib=rb-1.2.1\u0026ixid=eyJhcHBfaWQiOjEyMDd9\u0026auto=format\u0026fit=crop\u0026w=1868\u0026q=80",
+    "Ratings": [
+      3
+    ]
+  },
+  {
+    "Id": "4",
+    "Title": "Phone4",
+    "desc": "Phone4 description",
+    "Image": "https://images.unsplash.com/photo-1604918505819-efcc4bc063a4?ixlib=rb-1.2.1\u0026ixid=eyJhcHBfaWQiOjEyMDd9\u0026auto=format\u0026fit=crop\u0026w=1868\u0026q=80",
+    "Ratings": null
+  },
+  {
+    "Id": "5",
+    "Title": "Phone5",
+    "desc": "Phone5 description",
+    "Image": "https://images.unsplash.com/photo-1604918505819-efcc4bc063a4?ixlib=rb-1.2.1\u0026ixid=eyJhcHBfaWQiOjEyMDd9\u0026auto=format\u0026fit=crop\u0026w=1868\u0026q=80",
+    "Ratings": [
+      4,
+      1,
+      5,
+      5
+    ]
+  }
+]
